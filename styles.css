@@ -1,0 +1,12 @@
+#menu{
+    background-color: #387478;
+    border-radius: 5px;
+    width: 90px;
+    text-align: center;
+    padding: 5px;
+
+}
+#menu:hover{
+    background-color: white;
+    color: black;
+}
